@@ -4,7 +4,7 @@
 
 ![GitHub last commit](https://img.shields.io/github/last-commit/crashbug01/30DaysJSChallenge-Day2)<br>
 
-A Clock made with CSS and JS. It serves as the Day 1 entry for the "30 Days of JavaScript" challenge by Wes Bos.
+A Clock made with CSS and JS. "30 Days of JavaScript" challenge by Wes Bos.
 
 ### Key Learning Objective
 
